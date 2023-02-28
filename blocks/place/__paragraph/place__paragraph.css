@@ -1,0 +1,12 @@
+.place__paragraph {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.63;
+  color: #FFFFFF;
+  margin: 0 0 26px 0;
+}
+.place__paragraph:last-of-type {
+  margin: 0;
+}
