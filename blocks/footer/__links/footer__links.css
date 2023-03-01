@@ -1,0 +1,9 @@
+.footer__links{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+ 
+}
