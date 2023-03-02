@@ -6,5 +6,22 @@
   font-size: 54px;
   line-height: 1.07;
   color: #FFFFFF;
-  max-width: 690px;
+  max-width: 720px;
+}
+
+@media screen and (max-width: 1023px) {
+  .intro__title {
+      margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .intro__title {
+      margin-top: 64px;
+      font-size: 32px;
+      max-width: 690px;
+      line-height: 35px;
+      margin-right: auto;
+      width: 100%;
+  }
 }

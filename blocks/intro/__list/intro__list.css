@@ -10,3 +10,16 @@
   list-style: none;
   max-width: 690px;
 }
+
+@media screen and (max-width: 1023px) {
+  .intro__list {
+      margin: 0 24px 0 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+      margin: 0 16px 0 0;
+      width: 100%;
+  }
+}
