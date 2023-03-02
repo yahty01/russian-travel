@@ -6,8 +6,25 @@
   letter-spacing: 0em;
   text-align: center;
   color: rgba(255, 255, 255, 1);
-  margin: 0 132px 32px 132px;
-  width: 720px;
+  margin: 0 auto 32px auto;
+  max-width: 720px;
   height: 200px;
+  width: calc(100%-264px);
+
+}
+
+@media screen and (max-width: 720px) {
+  .lead__title {
+    padding: 0 16px 0 16px;
+    width: calc(100% - 32px);
+    height: 88px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 1.1;
+    text-align: center;
+    margin-bottom: 16px;
+  }
 
 }
