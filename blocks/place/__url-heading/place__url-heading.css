@@ -6,4 +6,17 @@
   line-height: 1;
   letter-spacing: 2px;
   color: #AAAAAA;
+  margin-top: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__url-heading{
+    line-height: 1;
+  }
+}
+@media screen and (max-width: 767px) {
+  .place__url-heading{
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }
