@@ -1,16 +1,35 @@
 .cover{
   background-image: url(../../images/cover-trains.jpg);
   display: flex;
-  max-width: 1184px;
-  min-height: 740px;
   flex-direction: column;
   background-size: cover;
   position: relative;
   margin: 92px auto 0 auto;
+  max-width: 1184px;
+  min-height: 740px;
   background-position: center;
   align-items: center;
   justify-content: center;
   background-repeat: no-repeat;
   text-decoration: none;
-  
+  width: calc(100% - 96px);
+
+}
+
+@media screen and (max-width: 1279px) {
+  .cover{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+ 
+}
+
+@media screen and (max-width: 767px) {
+
+}
+
+@media screen and (max-width: 500px) {
+
 }

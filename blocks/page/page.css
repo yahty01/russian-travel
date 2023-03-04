@@ -5,4 +5,5 @@
   max-width: 1280px;
   min-width: 320px;
   overflow: hidden;
+  align-self: center;
 }

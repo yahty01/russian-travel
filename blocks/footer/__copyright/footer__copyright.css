@@ -10,3 +10,11 @@
   width: 186px;
   height: 16px;
 }
+
+@media screen and (max-width: 669px) {
+  .footer__copyright {
+    text-align: left;
+    line-height: 1;
+  }
+ 
+}
