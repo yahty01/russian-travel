@@ -5,9 +5,9 @@
 # Проект: Путешествие по России
 
 Используемые технологии:
-HTML, CSS 
-Flexbox
-Grid layot 
-БЭМ Nested 
+1.HTML, CSS 
+2.Flexbox
+3.Grid layot 
+4.БЭМ Nested 
 
 Требуеться: сделать eng версию 
