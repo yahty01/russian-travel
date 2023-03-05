@@ -6,10 +6,10 @@
 
 Используемые технологии:
 <ul>
-<li>HTML,CSS<li>
-<li>Flexbox<li>
-<li>Grid layot<li>
-<li>БЭМ Nested<li>
+<li>HTML,CSS</li>
+<li>Flexbox</li>
+<li>Grid layot</li>
+<li>БЭМ Nested</li>
 </ul>
 
 https://yahty01.github.io/russian-travel/
