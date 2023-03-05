@@ -6,9 +6,9 @@
 
 Используемые технологии:
 <ul>
-<li>HTML, CSS <li>
+<li>HTML,CSS<li>
 <li>Flexbox<li>
-<li>Grid layot <li>
+<li>Grid layot<li>
 <li>БЭМ Nested<li>
 </ul>
 
