@@ -4,24 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF75F&background=FFFFFF00&multiline=true&width=700&lines=An+exciting+journey+through+Russia.;this+is+my+first+responsive+site%2C+but+not+the+last+%3A)" alt="Typing SVG" /></a>
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+Используемые технологии:
+1.HTML, CSS 
+2.Flexbox
+3.Grid layot 
+4.БЭМ Nested 
 
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+Требуеться: сделать eng версию 
