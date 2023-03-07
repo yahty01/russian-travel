@@ -15,18 +15,16 @@
   margin-right: 0;
 }
 
-
 @media screen and (max-width: 500px) {
   .header__lang-link {
     font-family: 'Inter';
     font-style: normal;
     font-size: 18px;
     line-height: 1.11;
-    text-align: right;
     text-decoration-line: none;
     width: 22px;
     height: fit-content;
-    text-align: right;
+  
   }
   .header__lang-link:last-of-type {
     margin-right: 0;
