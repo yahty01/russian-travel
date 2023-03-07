@@ -3,7 +3,7 @@
   justify-content: space-between;
   width: calc(100% - 96px);
   padding: 28px 48px 0;
-  height: 52px;
+  height: fit-content;
   
 }
 
