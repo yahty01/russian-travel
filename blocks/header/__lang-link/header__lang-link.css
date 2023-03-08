@@ -7,7 +7,7 @@
   line-height: 1.17;
   text-align: right;
   text-decoration: none;
-  width: 29px;
+  width: fit-content;
   height: fit-content;
 }
 
@@ -17,17 +17,11 @@
 
 @media screen and (max-width: 500px) {
   .header__lang-link {
-    font-family: 'Inter';
     font-style: normal;
     font-size: 18px;
     line-height: 1.11;
     text-decoration-line: none;
     width: 22px;
-    height: fit-content;
-  
-  }
-  .header__lang-link:last-of-type {
-    margin-right: 0;
   }
   
 }

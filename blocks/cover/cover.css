@@ -13,6 +13,25 @@
   background-repeat: no-repeat;
   text-decoration: none;
   width: calc(100% - 96px);
+}
+.cover:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #2A2C2F;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.cover:hover:before{
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  background: #2A2C2F;
+  opacity: 0.8;
 
 }
 

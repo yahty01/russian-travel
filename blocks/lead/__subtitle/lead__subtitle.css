@@ -12,9 +12,16 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+@media screen and (max-width: 1279px) {
+  .lead__subtitle{
+    margin-bottom: 56px;
+  }
+
+}
 
 @media screen and (max-width: 600px) {
   .lead__subtitle {
+      min-width: none;
       font-size: 16px;
       line-height: 1.25;
       margin: 0 auto 40px auto;
